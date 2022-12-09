@@ -6,3 +6,8 @@
     transform-style: preserve-3d;
     transform: perspective(4000px);
 }
+
+:root {
+    --book-width: 230px;
+    --book-height: 280px;
+}
