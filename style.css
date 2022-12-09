@@ -11,3 +11,8 @@
     --book-width: 230px;
     --book-height: 280px;
 }
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
