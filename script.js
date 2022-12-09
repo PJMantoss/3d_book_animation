@@ -1,3 +1,3 @@
 function bookOpen(){
-    let page;
+    let page = document.getElementsByClassName("page");
 }
