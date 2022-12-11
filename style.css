@@ -30,5 +30,5 @@ body{
     width: var(--book-width);
     height: var(--book-height);
     position: relative;
-    transform: rotateY('angle') rotateX('angle') rotateZ('angle');
+    transform: rotateY(20deg) rotateX(20deg) rotateZ(-1deg);
 }
