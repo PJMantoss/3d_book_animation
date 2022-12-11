@@ -25,3 +25,7 @@ body{
     left: 50%;
     transform: translateY(-50%);
 }
+
+.wrapper .book {
+    width: var(--book-width);
+}
