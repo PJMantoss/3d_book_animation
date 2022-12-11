@@ -34,3 +34,7 @@ body{
     transform-origin: top right;
     box-shadow: -30px 30px 60px #000;
 }
+
+.wrapper .book .page {
+    width: var(--book-width);
+}
