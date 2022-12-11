@@ -32,4 +32,5 @@ body{
     position: relative;
     transform: rotateY(20deg) rotateX(20deg) rotateZ(-1deg);
     transform-origin: top right;
+    box-shadow: -30px 30px 60px #000;
 }
