@@ -38,5 +38,7 @@ body{
 .wrapper .book .page {
     width: var(--book-width);
     height: var(--book-height);
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
