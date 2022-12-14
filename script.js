@@ -10,6 +10,7 @@ function bookOpen(){
     page[index - 5].style.boxShadow = "0 0 8px #fff";
     page[index - 6].style.boxShadow = "0 0 8px #fff";
     page[index - 7].style.boxShadow = "0 0 8px #fff";
+    page[index - index].style.boxShadow = "2px 3px 1px #fff";
 
     setTimeout(() => {}, 400);
 }
