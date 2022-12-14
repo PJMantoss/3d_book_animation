@@ -15,4 +15,8 @@ function bookOpen(){
     setTimeout(() => {
         page[index - 2].style.transform = "rotateY(-179deg)";
     }, 400);
+
+    setTimeout(() => {
+        page[index - 3].style.transform = "rotateY(-178deg)";
+    }, 800);
 }
