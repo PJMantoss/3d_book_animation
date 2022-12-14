@@ -12,5 +12,7 @@ function bookOpen(){
     page[index - 7].style.boxShadow = "0 0 8px #fff";
     page[index - index].style.boxShadow = "2px 3px 1px #fff";
 
-    setTimeout(() => {}, 400);
+    setTimeout(() => {
+        page[index - 2].style.transform = "rotateY(-179deg)";
+    }, 400);
 }
