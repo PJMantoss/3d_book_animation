@@ -40,8 +40,8 @@ body{
     width: var(--book-width);
     height: var(--book-height);
     position: absolute;
-    top: 0;
     left: 0;
+    top: 0;
     transform-origin: left;
     box-shadow: 0 0 1px #fff;
     border-radius: var(--radius);
