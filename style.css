@@ -31,7 +31,7 @@ body{
     width: var(--book-width);
     height: var(--book-height);
     position: relative;
-    transform: rotateX(20deg) rotateX(20deg) rotateZ(-1deg);
+    transform: rotateX(20deg) rotateY(20deg) rotateZ(-1deg);
     transform-origin: top right;
     box-shadow: -30px 30px 60px #000;
 }
