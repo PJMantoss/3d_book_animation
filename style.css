@@ -10,6 +10,7 @@
 :root {
     --book-width: 230px;
     --book-height: 280px;
+    --radius: 5px;
 }
 
 body{
