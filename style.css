@@ -49,3 +49,5 @@ body{
     width: 100%;
     height: 100%;
 }
+
+.wrapper .book .page:nth-child(8){}
