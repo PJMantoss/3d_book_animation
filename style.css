@@ -50,4 +50,6 @@ body{
     height: 100%;
 }
 
-.wrapper .book .page:nth-child(8){}
+.wrapper .book .page:nth-child(8){
+    box-shadow: -4px 5px 3px #fff;
+}
